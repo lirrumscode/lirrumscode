@@ -3,9 +3,9 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">SENA</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.ubuntu-co.com">Ubuntu Colombia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/lirrums)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/lirrums/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/lirrumscode)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/lirrums?style=social)](https://twitter.com/lirrums)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lirrums/)](https://www.linkedin.com/in/lirrums/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/lirrumscode?label=follow&style=social)](https://github.com/lirrumscode)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
