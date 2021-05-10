@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/lirrums?style=social)](https://twitter.com/lirrums)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lirrums/)](https://www.linkedin.com/in/lirrums/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-lirrums-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lirrums/)](https://www.linkedin.com/in/lirrums/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/lirrumscode?label=follow&style=social)](https://github.com/lirrumscode)
 
 
