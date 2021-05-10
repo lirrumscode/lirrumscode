@@ -18,7 +18,8 @@ const lirrumsCode = {
   architecture: ["microservices", "design system pattern"],
   techCommunities: {
                         Leader: "UbuntuColombia",
-                        speaker: "UbuntuColombia, CampusPartyCo",
+                        Member: Active Ubuntu - Cannonical,
+                        speaker: "UbuntuColombia, CampusPartyCo, Coahuila University, EsLibre (Rey Juan Carlos University)",
                         mentor: "Platzi Master"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
