@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lina Castro! <img src="https://pbs.twimg.com/profile_images/1389403914005622786/PTbdbPIE_400x400.jpg" width="50"></h2>
+<h2> Hi, I'm Lina Castro! 👩🏼‍💻 </h2>
 <img align='right' src="https://pbs.twimg.com/profile_images/1389403914005622786/PTbdbPIE_400x400.jpg" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
