@@ -1,6 +1,6 @@
-<h2> Hi, I'm Lina Castro! 👩🏼‍💻 </h2>
-<img align='right' src="https://pbs.twimg.com/profile_images/1389403914005622786/PTbdbPIE_400x400.jpg" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">SENA</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.ubuntu-co.com">Ubuntu Colombia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm Lina! 👩🏼‍💻 </h2>
+<img align='right' src="https://scontent.fclo1-4.fna.fbcdn.net/v/t39.30808-6/226512386_3071158113166275_8597950186307699168_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lgrDVytY3EgAX9ek9Yn&tn=Gx8AVDeDzzOoqikI&_nc_ht=scontent.fclo1-4.fna&oh=00_AT9g07HSMkjjvZn4py1X1fJZ67OBI8XEgGMedy3mXc947Q&oe=632F78BB" width="230">
+<p><em>Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ubuntu Member at <a href="https://www.ubuntu-co.com">Canonical</a>
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/lirrums?style=social)](https://twitter.com/lirrums)
@@ -14,10 +14,10 @@
 const lirrumsCode = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Php, Ionic, SQL, Ubuntu Touch, Linux],
-  tools: [VueJS, Angular, Cypress, Ubuntu Touch - JS, QML, Docker, Lumen],
-  architecture: ["microservices", "design system pattern"],
+  tools: [VueJS, Angular, Cypress, Ubuntu Touch - JS, QML, Lumen],
+  architecture: ["microservices", "monolothic"],
   techCommunities: {
-                        Leader: "UbuntuColombia",
+                        Leader: "Member ",
                         Member: Active Ubuntu - Cannonical,
                         speaker: "UbuntuColombia, CampusPartyCo, Coahuila University, EsLibre (Rey Juan Carlos University)",
                         mentor: "Platzi Master"
