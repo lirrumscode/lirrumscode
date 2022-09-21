@@ -17,12 +17,11 @@ const lirrumsCode = {
   tools: [VueJS, Angular, Cypress, Ubuntu Touch - JS, QML, Lumen],
   architecture: ["microservices", "monolothic"],
   techCommunities: {
-                        Leader: "Member ",
-                        Member: Active Ubuntu - Cannonical,
+                        Leader: "Member of BoT UBports - foundation",
+                        Member: Ubuntu - Cannonical,
                         speaker: "UbuntuColombia, CampusPartyCo, Coahuila University, EsLibre (Rey Juan Carlos University)",
                         mentor: "Platzi Master"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
 }
 ```
 
