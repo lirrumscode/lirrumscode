@@ -1,5 +1,5 @@
 <h2> Hi, I'm Lina! 👩🏼‍💻 </h2>
-<img align='right' src="https://scontent.fclo1-4.fna.fbcdn.net/v/t39.30808-6/226512386_3071158113166275_8597950186307699168_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lgrDVytY3EgAX9ek9Yn&tn=Gx8AVDeDzzOoqikI&_nc_ht=scontent.fclo1-4.fna&oh=00_AT9g07HSMkjjvZn4py1X1fJZ67OBI8XEgGMedy3mXc947Q&oe=632F78BB" width="230">
+<img align='right' src=https://avatars.githubusercontent.com/u/55465633?v=4" width="230">
 <p><em>Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ubuntu Member at <a href="https://www.ubuntu-co.com">Canonical</a>
 </em></p>
 
