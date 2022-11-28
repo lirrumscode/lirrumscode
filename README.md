@@ -29,4 +29,3 @@ const lirrumsCode = {
 
 ---
                                                                                 
-![Metrics](/github-metrics.svg)                                                                                
